@@ -1,3 +1,6 @@
+## Quote Server
+This is a simple project to publish quotes using Rust.
+
 ## Running the Server
 Make sure you have Rust installed. Then:
 ```bash

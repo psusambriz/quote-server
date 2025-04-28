@@ -17,7 +17,7 @@ struct QuoteTemplate {
 // quote handler
 async fn quote_handler() -> Html<String> {
     let template = QuoteTemplate {
-        quote: "It's so easy to laugh it's so easy to hate. It takes guts to be gentle and kind.",
+        quote: "This is an inspiring quote!",
     };
     Html(template.render().unwrap())
 }

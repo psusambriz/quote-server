@@ -6,7 +6,7 @@ A simple Rust server project using Axum and Askama to serve quotes via a web ser
 Make sure you have Rust installed. Then:
 
 ```bash
-# Navigate into the poject directory
+# Navigate into the project directory
 cd quote-server
 
 # Run the server
